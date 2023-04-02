@@ -22,8 +22,8 @@ title: مدونة سلمان
 email: Soon
 description: >- # this means to ignore newlines until "baseurl:"
   مدونة مكونة من خواطر وأفكار تأتي على بالي وبعض النصائح في شتى مجالات الحياة.
-baseurl: "https://upq1.github.io/Blog/" # the subpath of your site, e.g. /blog
-url: "https://upq1.github.io/Blog/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Blog/" # the subpath of your site, e.g. /blog
+url: "https://upq1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  upq1
 
