@@ -21,11 +21,11 @@
 title: مدونة سلمان
 email: Soon
 description: >- # this means to ignore newlines until "baseurl:"
-  
+  مدونة مكونة من خواطر وأفكار تأتي على بالي وبعض النصائح في شتى مجالات الحياة.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  upq1
 
 # Build settings
 theme: minima
