@@ -21,13 +21,13 @@ categories: Chemistry
 يتكون الجدول الدوري الحديث من مربعات تُعرِّف برمز العنصر وعدده الذري وكتلتهُ الذرية، رُتبت المربعات في أعمدةٍ تُعرف بالمجموعات وصفوفٍ أفقيةٍ تُعرف بالدورات
 
 
-![Periodic Table](/_media/Periodic-table-Saud.jpg)
-|:--:| 
+![](https://raw.githubusercontent.com/upq1/Blog/main/assets/Periodic-table-Saud.jpg)
+
 | *صورة للجدول الدوري معربًا[^3]* |
 
 
-![Periodic Table ](/_media/Periodic-table-Wikipedia.jpg)
-|:--:| 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Periodic_table_large-ar.svg/1024px-Periodic_table_large-ar.svg.png)
+
 | *الجدول الدوري من ويكيبيديا* |
 
 
