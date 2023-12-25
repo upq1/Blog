@@ -29,7 +29,7 @@ categories: Soldering
 
 اشتريتُ حقيبةَ لحام الإلكترونيات معها الكثير من العِدد وثم أخذت السماعة من المتجر، ثم شرعتُ في تصليحها.
 
-![](https://raw.githubusercontent.com/upq1/Blog/main/assets/Per/TG-777/Bag.jpg)
+![](https://raw.githubusercontent.com/upq1/Blog/main/assets/TG-777/Bag.jpg)
 | *صورة مماثلة لما اشتريت* |
 
 كأن أول شيء يجب علي معرفته هو وظيفة كل سلكٍ وأن اعلم أين الحمه، وهذا لم يكن شيئا سهلا البتة.
@@ -43,12 +43,12 @@ categories: Soldering
 
 هنا صور ربما ستفيد من سيحاول تصليح سماعة مشابهة لما معي.
 
-![](https://raw.githubusercontent.com/upq1/Blog/main/assets/Per/TG-777/Headset wiring.jpg)
-![](https://raw.githubusercontent.com/upq1/Blog/main/assets/Per/TG-777/Headset wiring Drawing.jpg)
+![](https://raw.githubusercontent.com/upq1/Blog/main/assets/TG-777/Headset wiring.jpg)
+![](https://raw.githubusercontent.com/upq1/Blog/main/assets/TG-777/Headset wiring Drawing.jpg)
 | *صور السماعة من الداخل بعد تلحيمها (أعلم أن تلحيمي سيئ) ورسمة للتسليك*|
 
-![](https://raw.githubusercontent.com/upq1/Blog/main/assets/Per/TG-777/Volume controller.jpg)
-![](https://raw.githubusercontent.com/upq1/Blog/main/assets/Per/TG-777/Volume controller Drawing.jpg)
+![](https://raw.githubusercontent.com/upq1/Blog/main/assets/TG-777/Volume controller.jpg)
+![](https://raw.githubusercontent.com/upq1/Blog/main/assets/TG-777/Volume controller Drawing.jpg)
 | *صور لوحدة تحكم الصوت من الداخل ورسمة للتسليك* |
 
 &nbsp;
