@@ -47,8 +47,8 @@ categories: Soldering
 ![](https://raw.githubusercontent.com/upq1/Blog/main/assets/TG-777/Headset wiring Drawing.jpg)
 | *صور السماعة من الداخل بعد تلحيمها (أعلم أن تلحيمي سيئ) ورسمة للتسليك*|
 
-![](https://raw.githubusercontent.com/upq1/Blog/main/assets/TG-777/Volume controller.jpg)
-![](https://raw.githubusercontent.com/upq1/Blog/main/assets/TG-777/Volume controller Drawing.jpg)
+![](https://raw.githubusercontent.com/upq1/Blog/main/assets/TG-777/Volume controller wiring.jpg)
+![](https://raw.githubusercontent.com/upq1/Blog/main/assets/TG-777/Volume controller wiring Drawing.jpg)
 | *صور لوحدة تحكم الصوت من الداخل ورسمة للتسليك* |
 
 &nbsp;
